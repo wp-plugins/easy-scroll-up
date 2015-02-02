@@ -29,7 +29,6 @@ Plugin Demo url: <a href="http://touchpointdev.com/easy-scroll-up/" target="_bla
 
 == Installation ==
 
-
 1. Upload `plugin-directory` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. No need to use any shortcode just instal and go to plugin option panel under the setting. 
