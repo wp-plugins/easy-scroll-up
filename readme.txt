@@ -52,6 +52,8 @@ Just Contact Us Click Here: <a href="http://www.touchpointdev.com" target="_blan
 
 1. Easy Scroll Up Option panal.
 
+2. Plugin Screenshot Demo
+
 == Changelog ==
 
 = 1.0 =
