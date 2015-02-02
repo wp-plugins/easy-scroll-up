@@ -23,7 +23,7 @@ Easy Scroll Up Features:
 	<li>Free PLugin Bug Support</li>
 </ul>
 
-Plugin Demo url: http://touchpointdev.com/easy-scroll-up/
+Plugin Demo url: <a href="http://touchpointdev.com/easy-scroll-up/" target="_blank">http://touchpointdev.com/easy-scroll-up/</a> 
 
 
 
