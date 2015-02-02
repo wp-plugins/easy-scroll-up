@@ -24,7 +24,7 @@ wp_enqueue_script('tp-scroll-plugin-js', TP_EASY_SCROLL_UP.'js/jquery.scrollUp.j
 // Adding menu in wordpress dashboard
 function add_tpeasyscrollup_menu_setting_section_framwrork()  
 {  
-	add_options_page('Custom Scroll Up Options', 'Easy ScrollUp Options', 'manage_options', 'tpscrollup-settings','tpscrollup_default_options_framwrork');  
+	add_options_page('Custom Scroll Up Options', 'Easy Scroll Up', 'manage_options', 'tpscrollup-settings','tpscrollup_default_options_framwrork');  
 }  
 add_action('admin_menu', 'add_tpeasyscrollup_menu_setting_section_framwrork');
 
