@@ -12,7 +12,7 @@ Easy Scroll Up Plugin Super Lightweight and easy to instal.
 
 This plugin Enable for Scroll To Up in this plugin you will get various multiple color options with an option panel very easy to use just instal and see the magic.
 
-Easy Scroll Up Features: 
+<strong>Easy Scroll Up Features: </strong>
 
 <ul>
 	<li>Super Lightweight</li>
@@ -23,7 +23,7 @@ Easy Scroll Up Features:
 	<li>Free PLugin Bug Support</li>
 </ul>
 
-Plugin Demo url: <a href="http://touchpointdev.com/easy-scroll-up/" target="_blank">http://touchpointdev.com/easy-scroll-up/</a> 
+<strong>Plugin Demo url:</strong> <a href="http://touchpointdev.com/easy-scroll-up/" target="_blank">http://touchpointdev.com/easy-scroll-up/</a> 
 
 
 
