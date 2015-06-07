@@ -6,11 +6,11 @@ Stable tag: 2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easy Scroll Up Plugin Super Lightweight and easy to instal.
+Easy Scroll Up Plugin Super Lightweight and easy to install.
 
 == Description ==
 
-This plugin Enable for Scroll To Up in this plugin you will get various multiple color options with an option panel very easy to use just instal and see the magic.
+This plugin Enable for Scroll To Up in this plugin you will get various multiple color options with an option panel very easy to use just install and see the magic.
 
 <strong>Easy Scroll Up Features: </strong>
 
@@ -23,7 +23,7 @@ This plugin Enable for Scroll To Up in this plugin you will get various multiple
 	<li>Free PLugin Bug Support</li>
 </ul>
 
-<strong>Plugin Demo url:</strong> <a href="http://touchpointdev.com/easy-scroll-up/" target="_blank">http://touchpointdev.com/easy-scroll-up/</a> 
+<strong>Plugin Demo url:</strong> <a href="http://wppluginarea.com/easy-scroll-up/" target="_blank">http://wppluginarea.com/easy-scroll-up/</a> 
 
 
 
@@ -52,6 +52,8 @@ Just Contact Us Click Here: <a href="http://www.touchpointdev.com" target="_blan
 1. Easy Scroll Up Option panal.
 
 2. Plugin Screenshot Demo
+
+2. Shortcode Button
 
 == Changelog ==
 
