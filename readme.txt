@@ -25,6 +25,8 @@ This plugin Enable for Scroll To Up in this plugin you will get various multiple
 
 <strong>Plugin Demo url:</strong> <a href="http://wppluginarea.com/easy-scroll-up/" target="_blank">http://wppluginarea.com/easy-scroll-up/</a> 
 
+https://www.youtube.com/watch?v=aDV9Lw5AbRE
+
 
 
 == Installation ==
