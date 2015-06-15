@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Easy Scroll Up
-Plugin URI: http://touchpointdev.com/easy-scroll-up
+Plugin URI: http://wppluginarea.com/easy-scroll-up/
 Description: This plugin Enable for Scroll To Up very easy to setup change color option just instal and see the magic.
 Author: Wp Plugin Area
 Author URI: http://wppluginarea.com
